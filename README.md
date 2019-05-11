@@ -15,13 +15,18 @@ Thoughts on improvement for future updates
 Built With
 
 HTML
+
 CSS
+
 Javascript
+
 Atom Text Editor
 
 Acknowledgments
+
 Thanks to Angela Yu from App Brewery for the inspiration and guide to creating the project
 
-Creating this quick game has shown me so much on what I understand thus far from my self-study of coding, debugging, 
+
+"Creating this quick game has shown me so much on what I understand thus far from my self-study of coding, debugging, 
 and best practices and I hope that I continue to grow as a developer. It is one of my first projects and maybe one day,
-I could come back to this and transform it into a full-fledged webpage. 
+I could come back to this and transform it into a full-fledged webpage." 
